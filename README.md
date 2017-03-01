@@ -1,2 +1,2 @@
-1¡¢kmeans mr
-2¡¢cosin ÏàËÆ¶È¼ÆËã mr
+1Â¡Â¢kmeans mr
+2Â¡Â¢cosin ç›¸ä¼¼åº¦è®¡ç®— mr
