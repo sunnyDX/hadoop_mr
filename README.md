@@ -1,4 +1,4 @@
 
-### 测试
-* kmeans mr
-* cosin 相似度计算 mr
+### MapReduce程序
+* Kmeans
+* Cosin 相似度计算
